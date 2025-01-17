@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar Shrivas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **login page**
 
 - 🌱 I’m currently learning **python||c++||JS||React JS**
 
