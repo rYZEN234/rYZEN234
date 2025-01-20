@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar Shrivas</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Devlopment Engineer from India</h3>
 
 
-- 🌱 I’m currently learning **python||c++||JS||React JS**
+- 🌱 I’m Proficient in **C++||Python||HTML||CSS||JavaScript||React JS||Tailwind-CSS||MONGODB etc...**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **CS fundamentals like:DBMS||OS||Computer Network**
 
 - 📫 How to reach me **rshrivas373@gmail.com**
 
