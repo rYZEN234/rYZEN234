@@ -1,24 +1,117 @@
-<h1 align="center">Hi 👋, I'm Rohit Kumar Shrivas</h1>
-<h3 align="center">A passionate Software Devlopment Engineer from India</h3>
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Rohit%20Kumar%20Shrivas&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer&descSize=20&descAlignY=58" alt="header" />
 
-- 🌱 I’m Proficient in **C++||Python||HTML||CSS||JavaScript||React JS||Tailwind-CSS||MONGODB etc...**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%9A%80;C%2B%2B+%7C+Python+%7C+JavaScript+%7C+React;DSA+%26+Competitive+Programming+%F0%9F%A7%A0;Building+clean%2C+scalable+software" alt="Typing SVG" />
+</a>
 
-- 💬 Ask me about **CS fundamentals like:DBMS||OS||Computer Network**
+<br/>
 
-- 📫 How to reach me **rshrivas373@gmail.com**
+![Profile Views](https://komarev.com/ghpvc/?username=ryzen234&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/ryzen234?style=for-the-badge&logo=github&color=2c5364)
+![Stars](https://img.shields.io/github/stars/ryzen234?style=for-the-badge&logo=github&color=2c5364)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rohit-kumar-shrivas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-kumar-shrivas" height="30" width="40" /></a>
-<a href="https://instagram.com/_rohit+shrivas____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rohit+shrivas____" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ryzen678" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ryzen678" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@rshrivas7267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rshrivas7267" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ryzen234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ryzen234" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rshrivuill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rshrivuill" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryzen234&show_icons=true&locale=en&layout=compact" alt="ryzen234" /></p>
+## 👨‍💻 About Me
+
+```js
+const rohit = {
+  name: "Rohit Kumar Shrivas",
+  role: "Software Development Engineer",
+  location: "India 🇮🇳",
+  languages: ["C++", "Python", "JavaScript"],
+  frontend: ["HTML", "CSS", "React JS", "Tailwind CSS"],
+  database: ["MongoDB"],
+  strongAt: ["DSA", "DBMS", "Operating Systems", "Computer Networks"],
+  currentFocus: "Writing clean code and sharpening problem solving",
+  askMeAbout: "CS fundamentals",
+};
+```
+
+- 🌱 Proficient in **C++, Python, HTML, CSS, JavaScript, React JS, Tailwind CSS, MongoDB** and more
+- 💬 Ask me about **CS fundamentals**: DBMS, OS, Computer Networks
+- 🧩 I enjoy solving problems on LeetCode, CodeChef, HackerRank and GeeksforGeeks
+- 📫 Reach me at **[rshrivas373@gmail.com](mailto:rshrivas373@gmail.com)**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Database & Tools**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ryzen234&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryzen234&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ryzen234&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryzen234&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="95%" />
+</div>
+
+---
+
+## 🧠 Competitive Programming
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-ryzen234-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/ryzen234)
+[![CodeChef](https://img.shields.io/badge/CodeChef-ryzen678-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ryzen678)
+[![HackerRank](https://img.shields.io/badge/HackerRank-rshrivas7267-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/@rshrivas7267)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-rshrivuill-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/rshrivuill)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit_Kumar_Shrivas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-kumar-shrivas)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_rohit+shrivas____)
+[![Gmail](https://img.shields.io/badge/Gmail-rshrivas373@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rshrivas373@gmail.com)
+
+<br/>
+
+*"First, solve the problem. Then, write the code."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" alt="footer" />
+
+</div>
