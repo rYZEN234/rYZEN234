@@ -108,16 +108,12 @@ const rohit = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ryzen234&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ryzen234&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryzen234&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=ryzen234&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ryzen234&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
 
 </div>
 
