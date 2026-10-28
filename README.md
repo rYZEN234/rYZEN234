@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Rohit%20Kumar%20Shrivas&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Software%20Development%20Engineer%20%7C%20Problem%20Solver&descSize=20&descAlignY=62" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=700&height=50&lines=Hi+there%2C+I'm+Rohit+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;C%2B%2B+%7C+Python+%7C+JavaScript+%7C+React;DSA+%26+Competitive+Programming+%F0%9F%A7%A0;Turning+coffee+into+clean+code+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=700&height=50&lines=Hi+there%2C+I'm+Rohit+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;C%2B%2B+%7C+Python+%7C+JavaScript+%7C+React;GenAI+%26+RAG+Enthusiast+%F0%9F%A4%96;DSA+%26+Competitive+Programming+%F0%9F%A7%A0;Turning+coffee+into+clean+code+%E2%98%95" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -31,6 +31,7 @@ const rohit = {
   languages: ["C++", "Python", "JavaScript"],
   frontend: ["HTML", "CSS", "React", "Tailwind"],
   database: ["MongoDB"],
+  ai: ["GenAI", "RAG", "LangChain", "LLMs"],
   strongAt: ["DSA", "DBMS", "OS", "Networks"],
   askMeAbout: "CS fundamentals",
   status: "Always learning 🚀",
@@ -41,6 +42,7 @@ const rohit = {
 <td width="45%">
 
 - 🌱 Proficient in **C++, Python, HTML, CSS, JavaScript, React JS, Tailwind CSS, MongoDB**
+- 🤖 Exploring **Generative AI, RAG, LangChain and LLM-powered apps**
 - 💬 Ask me about **DBMS, OS, Computer Networks**
 - 🧩 I solve problems on LeetCode, CodeChef, HackerRank and GfG
 - 📫 **[rshrivas373@gmail.com](mailto:rshrivas373@gmail.com)**
@@ -58,6 +60,27 @@ const rohit = {
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=cpp,py,js,html,css,react,tailwind,bootstrap,mongodb,git,github,vscode&perline=6" alt="skills" />
 </a>
+
+<br/><br/>
+
+### 🤖 AI / ML & Generative AI
+
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,fastapi,docker&perline=6" alt="ai skills" />
+
+<br/><br/>
+
+![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_Databases-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-0A66C2?style=for-the-badge&logo=spacy&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-black?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </div>
 
