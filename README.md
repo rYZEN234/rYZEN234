@@ -73,7 +73,7 @@ const rohit = {
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ryzen234&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=ryzen234&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -82,7 +82,7 @@ const rohit = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryzen234&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="95%" />
+  <img src="https://ghchart.rshah.org/2c5364/ryzen234" alt="ryzen234 contribution chart" width="95%" />
 </div>
 
 ---
