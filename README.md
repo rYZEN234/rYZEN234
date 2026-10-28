@@ -1,23 +1,27 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Rohit%20Kumar%20Shrivas&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer&descSize=20&descAlignY=58" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Rohit%20Kumar%20Shrivas&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Software%20Development%20Engineer%20%7C%20Problem%20Solver&descSize=20&descAlignY=62" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%9A%80;C%2B%2B+%7C+Python+%7C+JavaScript+%7C+React;DSA+%26+Competitive+Programming+%F0%9F%A7%A0;Building+clean%2C+scalable+software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=700&height=50&lines=Hi+there%2C+I'm+Rohit+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;C%2B%2B+%7C+Python+%7C+JavaScript+%7C+React;DSA+%26+Competitive+Programming+%F0%9F%A7%A0;Turning+coffee+into+clean+code+%E2%98%95" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ryzen234&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/ryzen234?style=for-the-badge&logo=github&color=2c5364)
-![Stars](https://img.shields.io/github/stars/ryzen234?style=for-the-badge&logo=github&color=2c5364)
+![Profile Views](https://komarev.com/ghpvc/?username=ryzen234&label=Profile%20Views&color=7b2ff7&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/ryzen234?style=for-the-badge&logo=github&color=302b63)
+![Stars](https://img.shields.io/github/stars/ryzen234?style=for-the-badge&logo=github&color=302b63)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%" alt="divider" />
 
 ## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="55%">
 
 ```js
 const rohit = {
@@ -25,67 +29,76 @@ const rohit = {
   role: "Software Development Engineer",
   location: "India 🇮🇳",
   languages: ["C++", "Python", "JavaScript"],
-  frontend: ["HTML", "CSS", "React JS", "Tailwind CSS"],
+  frontend: ["HTML", "CSS", "React", "Tailwind"],
   database: ["MongoDB"],
-  strongAt: ["DSA", "DBMS", "Operating Systems", "Computer Networks"],
-  currentFocus: "Writing clean code and sharpening problem solving",
+  strongAt: ["DSA", "DBMS", "OS", "Networks"],
   askMeAbout: "CS fundamentals",
+  status: "Always learning 🚀",
 };
 ```
 
-- 🌱 Proficient in **C++, Python, HTML, CSS, JavaScript, React JS, Tailwind CSS, MongoDB** and more
-- 💬 Ask me about **CS fundamentals**: DBMS, OS, Computer Networks
-- 🧩 I enjoy solving problems on LeetCode, CodeChef, HackerRank and GeeksforGeeks
-- 📫 Reach me at **[rshrivas373@gmail.com](mailto:rshrivas373@gmail.com)**
+</td>
+<td width="45%">
 
----
+- 🌱 Proficient in **C++, Python, HTML, CSS, JavaScript, React JS, Tailwind CSS, MongoDB**
+- 💬 Ask me about **DBMS, OS, Computer Networks**
+- 🧩 I solve problems on LeetCode, CodeChef, HackerRank and GfG
+- 📫 **[rshrivas373@gmail.com](mailto:rshrivas373@gmail.com)**
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%" alt="divider" />
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cpp,py,js,html,css,react,tailwind,bootstrap,mongodb,git,github,vscode&perline=6" alt="skills" />
+</a>
 
-**Frontend**
+</div>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%" alt="divider" />
 
-**Database & Tools**
+## 🧊 3D Contribution Graph
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="95%" />
+</div>
 
----
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryzen234/ryzen234/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryzen234/ryzen234/output/github-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/ryzen234/ryzen234/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%" alt="divider" />
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ryzen234&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryzen234&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ryzen234&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryzen234&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=ryzen234&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=ryzen234&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ryzen234&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
 
 </div>
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/2c5364/ryzen234" alt="ryzen234 contribution chart" width="95%" />
-</div>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%" alt="divider" />
 
 ## 🧠 Competitive Programming
 
@@ -98,7 +111,7 @@ const rohit = {
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%" alt="divider" />
 
 ## 🤝 Let's Connect
 
@@ -110,8 +123,8 @@ const rohit = {
 
 <br/>
 
-*"First, solve the problem. Then, write the code."*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&italic=true&size=16&duration=4000&pause=1500&color=B794F6&center=true&vCenter=true&width=600&lines=First%2C+solve+the+problem.+Then%2C+write+the+code." alt="quote" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer" alt="footer" />
 
 </div>
