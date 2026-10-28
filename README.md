@@ -108,7 +108,7 @@ const rohit = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ryzen234&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ryzen234&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryzen234&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
 <br/>
